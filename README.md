@@ -2,7 +2,7 @@
 
 Website designed for showing my recipes
 Credit for the pictures used on this website
-spaghetti - <a href="https://www.magnific.com/free-psd/delicious-spaghetti-bolognese-with-cherry-tomatoes-basil_406457429.htm">Image by tohamina on Magnific</a>
+spaghetti - <a href="https://pixabay.com/images/search/spaghetti/"> Image by Hansuan Fabregas on Pixabay
 
 Hamburger - <a href="https://www.magnific.com/free-photo/juicy-cheeseburger-rustic-wooden-board_269342352.htm">Image by wahyu_t on Magnific</a>
 
