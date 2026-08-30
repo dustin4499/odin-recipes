@@ -16,10 +16,12 @@
     margin: auto;
     background-color: rgb(53, 94, 59);
     border: 0px;
-    display: block;
-    font-size: 40px;
     
-    margin-bottom: -8px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    
+    margin-bottom: 0px;
     
 }
 
@@ -37,10 +39,36 @@ ul{
 
 
 .test, .test li a{background-color: rgb(53, 94, 59);
-    border: 20px solid rgb(53, 94, 59);
+    border: 0px solid rgb(53, 94, 59);
     padding: 5px;
-display: block;
+display: flex;
+flex: 1 1 auto;
+flex-wrap: wrap;
+list-style: none;
+ justify-content: center;
+ gap: 2px;
+ 
+
+
 
     
     
 }
+.test a{
+    border: 2px solid  hsl(0deg 0% 0% / 0.2) ;
+    border-radius: 30%;
+    background-color: white;
+    
+    
+        
+
+
+}
+.test li {
+    background-color: rgb(53, 94, 59);
+    border: 2px solid hsl(0deg 0% 0% / 0.2);
+    border-radius: 30%;
+    gap: 2px;
+}
+
+
